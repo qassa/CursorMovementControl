@@ -1,0 +1,17 @@
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\bin\Debug\CursorInterpolation.exe.config
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\bin\Debug\CursorInterpolation.exe
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\bin\Debug\CursorInterpolation.pdb
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\MainWindow.g.cs
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\App.g.cs
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation_MarkupCompile.cache
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation_MarkupCompile.lref
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\MainWindow.baml
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation.g.resources
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation.Properties.Resources.resources
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation.exe
+c:\users\max\documents\visual studio 2015\Projects\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation.pdb
+C:\Users\Max\Desktop\Blockchain\Автоматизация xfaucet net\Имитация движения курсора\CursorInterpolation\CursorInterpolation\bin\Debug\CursorInterpolation.exe.config
+C:\Users\Max\Desktop\Blockchain\Автоматизация xfaucet net\Имитация движения курсора\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation.exe
+C:\Users\Max\Desktop\Blockchain\Автоматизация xfaucet net\Имитация движения курсора\CursorInterpolation\CursorInterpolation\obj\Debug\CursorInterpolation.pdb
